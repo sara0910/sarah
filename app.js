@@ -12,3 +12,8 @@ function multiply(n, m) {
 }
 
 multiply(a, b);
+
+function division(c1, d1) {
+  return c1 / d1;
+}
+division(a, b);
